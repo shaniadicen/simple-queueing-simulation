@@ -11,7 +11,7 @@ A desktop application for a simple queueing simulation written in Java.
 //Add problem being solved by the program
 
 ## Usage
-Download the desktop application: [Download Link - Google Drive](https://drive.google.com/drive/folders/1nRDRA0Dk5kmemoDYbfYDBtbc-teNqtf0)
+Download the desktop application: [Download Link - Google Drive](https://drive.google.com/file/d/1UYjI48ky2cYKPH4Pn-5aV57Es4RgNO5P/view?usp=sharing)
 
 To run the program, make sure to have Java installed in your computer.
 
