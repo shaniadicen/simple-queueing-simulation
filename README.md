@@ -2,7 +2,8 @@
 A desktop application for a simple queueing simulation written in Java.
 
 ## Technologies
-Java
+- Java
+- Java GUI (Java Swing and Java AWT)
 
 ## Problem
 
