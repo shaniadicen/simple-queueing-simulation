@@ -1,5 +1,0 @@
-simulation.NumberOfCustomers$1
-simulation.NumberOfCustomers$3
-simulation.NumberOfCustomers$2
-simulation.NumberOfCustomers
-simulation.SimulationPrelims
