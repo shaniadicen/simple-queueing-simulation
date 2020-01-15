@@ -1,5 +1,5 @@
 # Simple Queueing Simulation
-A desktop application for a simple queueing simulation written in Java.
+A desktop application for a simple queueing simulation written in Java with JavaSwing and JavaAWT for Graphical User Interface.
 
 ## Technologies
 - Java
