@@ -1,5 +1,6 @@
 ### Java ###
 # Compiled class file
+build/
 *.class
 
 # Log file
@@ -7,6 +8,7 @@
 
 # Package Files #
 *.jar
+dist/
 
 ### macOS ###
 # General
