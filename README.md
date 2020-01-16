@@ -15,7 +15,7 @@ Download the desktop application: [Download Link - Google Drive](http://bit.ly/2
 
 To run the program, make sure to have Java installed in your computer.
 
-Java Download: [Download Link - Oracle Java](https://java.com/en/download/)
+- Java Download: [Download Link - Oracle Java](https://java.com/en/download/)
 
 
 ## Support
