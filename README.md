@@ -18,7 +18,7 @@ The simulation consists of five replications. The interarrival and service time 
   - Average and maximum total time in system
   - Utilization of the resource
   
-_The simulation peroid is 40 minutes._
+_The simulation period is 40 minutes._
 
 The tables below are the random digit assignments for interarrival and service times.
 
