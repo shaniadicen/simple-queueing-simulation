@@ -7,8 +7,40 @@ A desktop application for a simple queueing simulation written in Java with Java
 - Netbeans IDE
 
 ## Requirements
+The simulation consists of five replications. The interarrival and service time for each replication of the simulation are randomly generated (based from the table given below). The final output includes the following:
+- Data tables for the random digit assignments with the corresponding interarrival and service times of each customer/part.
+- Simulation table
+- Performance measures for each replication which includes:
+  - Average waiting time
+  - Maximum waiting time
+  - Time average number of customers in queue
+  - Maximum number of parts in queue
+  - Average and maximum total time in system
+  - Utilization of the resource
+  
+_The simulation peroid is 40 minutes._
 
-//Add problem being solved by the program
+The tables below are the random digit assignments for interarrival and service times.
+
+Interarrival Times (min) | Random Digit Assignment
+------------------------ | -----------------------
+1 | 001-124
+2 | 125-250
+3 | 251-375
+4 | 376-500
+5 | 501-625
+6 | 626-750
+7 | 751-875
+8 | 876-000
+
+Service Times | Random Digit Assignment
+--------------| -----------------------
+1 | 01-10
+2 | 11-30
+3 | 31-60
+4 | 61-85
+5 | 86-95
+6 | 96-00
 
 ## Usage
 Download the desktop application: [Download Link - Google Drive](http://bit.ly/2FSEMQ2)
