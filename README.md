@@ -43,11 +43,14 @@ Service Times | Random Digit Assignment
 6 | 96-00
 
 ## Usage
-Download the desktop application: [Download Link - Google Drive](http://bit.ly/2FSEMQ2)
+Download the desktop application (.jar): [Download Link - Google Drive](http://bit.ly/2FSEMQ2)
 
-To run the program, make sure to have Java installed in your computer.
+To execute the desktop application, make sure to have Java installed in your computer.
 
 - Java Download: [Download Link - Oracle Java](https://java.com/en/download/)
+
+This jar file should work for mac os, windows and linux.
+
 
 ## Resources
 [Simulation Examples](https://www.mi.fu-berlin.de/inf/groups/ag-tech/teaching/2012_SS/L_19540_Modeling_and_Performance_Analysis_with_Simulation/02.pdf)
