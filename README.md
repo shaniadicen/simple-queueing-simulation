@@ -49,6 +49,12 @@ To run the program, make sure to have Java installed in your computer.
 
 - Java Download: [Download Link - Oracle Java](https://java.com/en/download/)
 
+## Resources
+[Simulation Examples](https://www.mi.fu-berlin.de/inf/groups/ag-tech/teaching/2012_SS/L_19540_Modeling_and_Performance_Analysis_with_Simulation/02.pdf)
+
+[Queueing Models](https://www.mi.fu-berlin.de/inf/groups/ag-tech/intern/19540-V-Simulation/08_Queueing_Models.pdf)
+
+[Queueing Theory](http://people.brunel.ac.uk/~mastjjb/jeb/or/queue.html)
 
 ## Support
 For any questions or concerns, please email [shaniaddev@gmail.com](mailto:shaniaddev@gmail.com?subject=[GitHub]%20Simple%20Queueing%20Simulation)
