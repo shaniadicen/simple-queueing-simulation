@@ -58,6 +58,3 @@ This jar file should work for mac os, windows and linux.
 [Queueing Models](https://www.mi.fu-berlin.de/inf/groups/ag-tech/intern/19540-V-Simulation/08_Queueing_Models.pdf)
 
 [Queueing Theory](http://people.brunel.ac.uk/~mastjjb/jeb/or/queue.html)
-
-## Support
-For any questions or concerns, please email [shaniaddev@gmail.com](mailto:shaniaddev@gmail.com?subject=[GitHub]%20Simple%20Queueing%20Simulation)
